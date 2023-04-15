@@ -23,7 +23,7 @@
 <head>
 <body>
     <h1><b>Sobre mim</b></h1>
-    <p>Meu nome é Diego Costa Santos, 23 anos, moro em Guarulhos SP e estou graduando em Análise e desenvolvimento de sistemas pela faculdade Anhanguera</p>
+    <p>Meu nome é Diego Costa Santos, 22 anos, moro em Guarulhos SP e estou graduando em Análise e desenvolvimento de sistemas pela faculdade Anhanguera</p>
     <p>Nesses 2 anos estudando eu aprendi muitas coisas que você pode ler a baixo. As área de pesquisa em quais desejo atuar: desenvolvimento de softwares, hardware e desenvolvimento de jogos</p>
     <ul>
         <li>Modelagem de dados</li>
